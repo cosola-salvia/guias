@@ -7,11 +7,11 @@ El favicon es fundamental para el reconocimiento de una página web en un navega
 
 Ejemplos:
 
-![ajustesFavicon1](images/ejemplo-favicon-1.png)
+![ejemplo de favicon](images/ejemplo-favicon-1.png)
 
 Algunos motores de búsqueda también incorporan favicons en los resultados de búsqueda. 
 
-![ajustesFavicon1](images/ejemplo-favicon-2.png)
+![ejemplo de favicon](images/ejemplo-favicon-2.png)
 
 Los favicons ayudan a los usuarios a recordar un sitio mientras navegan a través de múltiples URLs y a reconocer fácilmente los sitios web; ya sea en el historial de navegación, los resultados de búsqueda.
 
@@ -22,34 +22,34 @@ Los favicons ayudan a los usuarios a recordar un sitio mientras navegan a travé
 
 2. Selecciona la imagen
 
-![selectImage](images/selectImage.png)
+![seleccionar imagen para generar el favicon](images/seleccionar-imagen-para-favicon.png)
 
 3. Especifica los ajustes necesarios
 
-![ajustesFavicon1](images/ajustesFavicon1.png)
-![ajustesFavicon2](images/ajustesFavicon2.png)
-![ajustesFavicon3](images/ajustesFavicon3.png)
-![ajustesFavicon4](images/ajustesFavicon4.png)
-![ajustesFavicon5](images/ajustesFavicon5.png)
-![ajustesFavicon6](images/ajustesFavicon6.png)
+![ajustes-favicon-1](images/ajustes-favicon-1.png)
+![ajustes-favicon-2](images/ajustes-favicon-2.png)
+![ajustes-favicon-3](images/ajustes-favicon-3.png)
+![ajustes-favicon-4](images/ajustes-favicon-4.png)
+![ajustes-favicon-5](images/ajustes-favicon-5.png)
+![ajustes-favicon-6](images/ajustes-favicon-6.png)
 
 4. Ir a **Favicon Generator Options** en la misma página
 y genera el favicon
 
 **Nota:** Asegúrate de realizar los ajustes necesarios
 
-![generarFavicon](images/generarFavicon.png)
+![generar favicon](images/generar-favicon.png)
 
 5. Descarga el paquete
 
-![descargarFavicon](images/descargarFavicon.png)
+![descargar el pack de favicon](images/descargar-pack-de-favicon.png)
 
 **Nota:** Una vez descargado el paquete, extrae los archivos y colócalos
 en la raíz del sitio web. Es decir, colocarlos al mismo nivel del `index.html`
 
 Por ejemplo
 
-![archivosFavicon](images/archivosFavicon.png)
+![archivos del favicon](images/archivos-de-favicon.png)
 
 6. Copia las líneas de código que indican y pégalas en `head` en el `index.html`
 
