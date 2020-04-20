@@ -1,14 +1,22 @@
 # MACILE's branding guide
 
-## Logo
+## Logo MACILE
 
+![logo MACILE](images/logo-MACILE/MACILE-logo-shield-u.svg)
 
+**Nota:** otras versiones del logo están disponibles en la carpeta*logo-MACILE*
 
 ## Tipografía
 
-1. `Trajan Pro Bold`
+![tipografía del logo MACILE](images/logo-typography.png)
 
-2. `Trajan Pro Regular` 
+1. **Trajan Pro Bold** es para **MACILE**.
+
+![trajan pro bold typography](images/trajan-pro-bold-typography.png)
+
+2. **Trajan Pro Regular** es para el eslogan *Matemáticas, Ciencias, Ingeniería, Lenguaje* 
+
+![trajan pro regular typography](images/trajan-pro-regular-typography.png)
 
 ## Colores
 
