@@ -1,16 +1,16 @@
 # MACILE's branding guide
 
-### Logo
+## Logo
 
-![logo-macile](images/logo-macile.jpg)
 
-### Tipografía
+
+## Tipografía
 
 1. `Trajan Pro Bold`
 
 2. `Trajan Pro Regular` 
 
-### Colores
+## Colores
 
 1. **Azul**
 
