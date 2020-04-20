@@ -22,28 +22,28 @@
 
 1. **Azul**
 
-![azul](images/azul.png)
+![color-swatch-blue](images/color-swatch-blue.png)
 
 - Hex `1a1451`
 - RGB `26, 20, 81`
 
 2. **Dorado**
 
-![dorado](images/dorado.png)
+![color-swatch-gold](images/color-swatch-gold.png)
 
 - Hex `af8400`
 - RGB `175, 132, 0`
 
 3. **Amarillo**
 
-![amarillo](images/amarillo.png)
+![color-swatch-yellow](images/color-swatch-yellow.png)
 
 - Hex `fdfd56`
 - RGB `253, 253, 86`
 
 4. **Gris**
 
-![gris](images/gris.png)
+![color-swatch-gray](images/color-swatch-gray.png)
 
 - Hex `606060`
 - RGB `96, 96, 96`
