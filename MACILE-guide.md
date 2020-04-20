@@ -1,4 +1,4 @@
-# MACILE's guide
+# MACILE's branding guide
 
 ### Logo
 
