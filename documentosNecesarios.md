@@ -13,7 +13,8 @@ Esta página es importante, porque no deja al usuario en el aire. Sino que lo ay
 a encontrar lo que está buscando.
 
 
-## **robots.txt**
+## **[robots.txt](https://www.robotstxt.org)**
+
 
 Este archivo le dice a los rastreadores de máquinas de búsqueda qué páginas o archivos puede o no leer en tu sitio web.
 
