@@ -12,6 +12,10 @@ roto, la página ha sido eliminada o ha escrito mal un URL.
 Esta página es importante, porque no deja al usuario en el aire. Sino que lo ayuda
 a encontrar lo que está buscando.
 
+Ejemplo:
+
+![example-error-page-1](images/example-error-page-1.png)
+
 
 ## **[robots.txt](https://www.robotstxt.org)**
 
