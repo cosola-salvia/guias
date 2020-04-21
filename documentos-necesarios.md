@@ -14,7 +14,7 @@ a encontrar lo que está buscando.
 
 Ejemplo:
 
-![example-error-page-1](images/example-error-page-1.png)
+![example-error-page](images/example-error-page.png)
 
 
 ## [robots.txt](https://www.robotstxt.org)
@@ -23,7 +23,7 @@ Este archivo le dice a los rastreadores de máquinas de búsqueda qué páginas 
 
 Antes de que un robot visite el sitio web, primero lee el `robots.txt` que contiene dicho sitio. Ejemplo:
 
-![example-robots-1](images/example-robots-1.png)
+![example-guide-for-robots-file](images/example-guide-for-robots-file.png)
 
 `User-agent: *` indica que la sección se aplica a todos los robots. En este caso `Disallow: ` está indicando que el robot puede visitar cualquier página dentro del sitio web. Para indicar lo contario (que no visite ninguna página en el sitio web) se coloca `Disallow: /`.
 
@@ -39,7 +39,7 @@ que utilizó.
 
 Ejemplo:
 
-![example-human-1](images/example-human-1.png)
+![example-guide-for-human-file](images/example-guide-for-human-file.png)
 
 Este documento fue inspirado por `robots.txt`. Porque el internet es para humanos, pero hacemos archivos para que los robots de búsqueda. Entonces, debe haber uno también para los humanos.  
 
