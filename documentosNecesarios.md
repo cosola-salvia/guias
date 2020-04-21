@@ -23,6 +23,11 @@ Antes de que un robot visite el sitio web, primero lee el `robots.txt` que conti
 
 `User-agent: *` indica que la sección se aplica a todos los robots. En este caso `Disallow: ` está indicando que el robot puede visitar cualquier página dentro del sitio web. Para indicar lo contario (que no visite ninguna página en el sitio web) se coloca `Disallow: /`.
 
+### Puntos a considerar cuando utilizamos `robots.txt`
+
+1. Algunos robots(como malware robots) pueden ignorar tu `robots.txt`.
+2. El archivo `robots.txt` es público, así que no trates de esconder ningún tipo de información.
+
 ## **[human.txt](http://humanstxt.org/)**
 
 Es una iniciativa para reconocer a quién desarrolló el sitio web y las herramientas
