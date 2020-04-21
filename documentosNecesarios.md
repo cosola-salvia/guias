@@ -1,7 +1,7 @@
 # Documentos necesarios para publicar una página
 
 
-## **[Error page](http://www.404errorpages.com/)**
+## [Error page](http://www.404errorpages.com/)
 
 Es el archivo nombrado `404`. Es un archivo de `html`.
 
@@ -17,7 +17,7 @@ Ejemplo:
 ![example-error-page-1](images/example-error-page-1.png)
 
 
-## **[robots.txt](https://www.robotstxt.org)**
+## [robots.txt](https://www.robotstxt.org)
 
 Este archivo le dice a los rastreadores de máquinas de búsqueda qué páginas o archivos puede o no leer en tu sitio web.
 
@@ -32,7 +32,7 @@ Antes de que un robot visite el sitio web, primero lee el `robots.txt` que conti
 1. Algunos robots(como malware robots) pueden ignorar tu `robots.txt`.
 2. El archivo `robots.txt` es público, así que no trates de esconder ningún tipo de información.
 
-## **[human.txt](http://humanstxt.org/)**
+## [human.txt](http://humanstxt.org/)
 
 Es una iniciativa para reconocer a quién desarrolló el sitio web y las herramientas
 que utilizó.
