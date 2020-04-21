@@ -19,7 +19,7 @@ a encontrar lo que está buscando.
 Este archivo le dice a los rastreadores de máquinas de búsqueda qué páginas o archivos puede o no leer en tu sitio web.
 
 
-## **human.txt**
+## **[human.txt](http://humanstxt.org/)**
 
 Es una iniciativa para reconocer a quién desarrolló el sitio web y las herramientas
 que utilizó.
