@@ -15,9 +15,13 @@ a encontrar lo que está buscando.
 
 ## **[robots.txt](https://www.robotstxt.org)**
 
-
 Este archivo le dice a los rastreadores de máquinas de búsqueda qué páginas o archivos puede o no leer en tu sitio web.
 
+Antes de que un robot visite el sitio web, primero lee el `robots.txt` que contiene dicho sitio. Ejemplo:
+
+![example-robots-1](images/example-robots-1.png)
+
+`User-agent: *` indica que la sección se aplica a todos los robots. En este caso `Disallow: ` está indicando que el robot puede visitar cualquier página dentro del sitio web. Para indicar lo contario (que no visite ninguna página en el sitio web) se coloca `Disallow: /`.
 
 ## **[human.txt](http://humanstxt.org/)**
 
