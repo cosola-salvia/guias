@@ -33,6 +33,11 @@ Antes de que un robot visite el sitio web, primero lee el `robots.txt` que conti
 Es una iniciativa para reconocer a quién desarrolló el sitio web y las herramientas
 que utilizó.
 
+Ejemplo:
+
+![example-human-1](images/example-human-1.png)
+
+Este documento fue inspirado por `robots.txt`. Porque el internet es para humanos, pero hacemos archivos para que los robots de búsqueda. Entonces, debe haber uno también para los humanos.  
 
 **Nota:** Todos estos archivos son colocados en la raíz del sitio web. Al mismo nivel
 del `index.html`. 
