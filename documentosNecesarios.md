@@ -1,7 +1,7 @@
 # Documentos necesarios para publicar una página
 
 
-## **Error page**
+## **[Error page](http://www.404errorpages.com/)**
 
 Es el archivo nombrado `404`. Es un archivo de `html`.
 
