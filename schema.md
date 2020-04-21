@@ -3,9 +3,24 @@
 Schema.org provee una colección de vocabularios compartidos 
 que puedes utilizar para que las máquinas de búsqueda puedan entender tu página web.
 
-Vamos a utilizar un ejemplo:
+Veamos un ejemplo:
 
-![schema](images/schema.png)
+Aquí tenemos el footer de una página. Tiene el nombre de la organización, sus siglas, el nombre de uno de sus programas y un texto de copyright.
+
+![example-schema-markup-1](images/example-schema-markup-1.png)
+
+Lo primero que tenemos que hacer es identificar esta sección. Esto lo hacemos añadiendo el elemento *itemscope* en la división. Esto quiere decir que lo que está dentro del bloque es un elemento individual.
+
+![example-schema-markup-itemscope](images/example-schema-markup-itemscope.png)
+
+Una vez especificado el *itemscope*, añadimos el tipo de elemento. Esto lo hacemos con *itemtype*. Pero, ¿cómo sabemos qué tipo utilizar?
+
+Para esto debemos buscar un itemtype que esté más relacionado con el contenido. En este caso nuestro itemtype es una organización.
+
+![example-schema-markup-itemtype](images/example-schema-markup-itemtype.png)
+
+**Nota:** Schema.org describe una variedad de tipos de elementos, cada uno tiene su conjunto de propiedades que se pueden utilizar para describir el elemento. 
+Ir a [Lista de todos los tipos de elementos](https://schema.org/docs/full.html) para ver los detalles.
 
 `itemscope` indica que, lo que está dentro del bloque `<div>...</div>` 
 es un elemento en particular.
@@ -15,8 +30,6 @@ se coloca después del `itemscope`.
 
 `itemprop` especifica las propiedades del elemento. 
 
-Schema.org describe una variedad de tipos de elementos, cada uno tiene su conjunto de propiedades que se pueden utilizar para describir el elemento. 
-Ir a [Lista de todos los tipos de elementos](https://schema.org/docs/full.html) para ver los detalles.
 
 ## Tips para utilizar Schema.org
 
