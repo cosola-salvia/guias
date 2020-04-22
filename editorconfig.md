@@ -2,3 +2,28 @@
 
 EditorConfig es un formato de archivo y una colección de complementos de editor de texto para mantener estilos de codificación consistentes entre diferentes editores e IDEs.
 
+Ejemplo de un archivo `.editorconfig`
+
+![editorconfig-file-example](images/editorconfig-file-example.png)
+
+## EditorConfig en VSCode y SublimeText
+
+### VSCode
+
+VSCode utiliza el *editorconfig npm package*.
+
+- Instala el paquete `ext install EditorConfig`
+
+**Propiedades que soporta:**
+
+    indent_style
+    indent_size
+    tab_width
+    end_of_line (guardado)
+    insert_final_newline (guardado)
+    trim_trailing_whitespace (guardado)
+
+**Nota:** algunas propiedades solo pueden ser aplicadas en archivos guadados, como se indica arriba.
+
+Puedes crear un archivo .editorconfig haciendo click derecho en el botón *Explorar*, en la barra de menú. Luego seleciona *Generar .editorconfig*. 
+ 
