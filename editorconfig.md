@@ -27,3 +27,18 @@ VSCode utiliza el *editorconfig npm package*.
 
 Puedes crear un archivo .editorconfig haciendo click derecho en el botón *Explorar*, en la barra de menú. Luego seleciona *Generar .editorconfig*. 
  
+
+### SublimeText
+
+- Instala el `EditorConfig` con el Package Control y reinicia el editor.
+
+**Propiedades que soporta:**
+
+    root
+    indent_style
+    indent_size
+    end_of_line
+    charset
+    trim_trailing_whitespace
+    insert_final_newline
+
