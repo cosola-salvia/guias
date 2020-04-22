@@ -28,17 +28,9 @@ se coloca después del `itemscope`.
 **Nota:** Schema.org describe una variedad de tipos de elementos, cada uno tiene su conjunto de propiedades que se pueden utilizar para describir el elemento. 
 Ir a [Lista de todos los tipos de elementos](https://schema.org/docs/full.html) para ver los detalles.
 
-Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*. La primera propiedad es una image.
+Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*. 
 
-![schema-markup-example-itemprop-img](images/schema-markup-example-itemprop-img.png)
-
-La siguiente propiedad es un url.
-
-![schema-markup-example-itemprop-url](images/schema-markup-example-itemprop-url.png)
-
-Y por último, tenemos la propiedad descripción.
-
-![schema-markup-example-itemprop-description](images/schema-markup-example-itemprop-description.png)
+![schema-markup-example-itemprop](images/schema-markup-example-itemprop.png)
 
 `itemprop` especifica las propiedades del elemento. 
 
