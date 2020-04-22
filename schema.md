@@ -43,15 +43,13 @@ Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*.
 el contenido que sea visible para las personas que visitan la página 
 web y no el contenido en `div` ocultos u otros elementos ocultos.
 
-2. A veces el valor de una propiedad de elemento puede ser otro elemento con su propio conjunto de propiedades. Por ejemplo:
+2. A veces el valor de una propiedad de elemento puede ser otro elemento con su propio conjunto de propiedades. 
 
 ![schema-example-tip-number-2](images/schema-example-tip-number-2.png)
 
 3. Para páginas con una colección de elementos, se debe marcar cada elemento por separado. 
-Por ejemplo:
 
 ![schema-example-tip-number-3](images/schema-example-tip-number-3.png)
-
 
 ## Prueba tu Schema.org
 
