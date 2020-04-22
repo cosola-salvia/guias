@@ -56,6 +56,15 @@ Por ejemplo:
 ## Prueba tu Schema.org
 
 Ir a [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool)
-para verificar que el `schema.org` está correctamente implementado. 
+para verificar que el `schema.org` está correctamente implementado.
 
-Para más información visita [Schema.org](https://schema.org)
+**Buenos resultados** (sin errores ni advertencias)
+
+![schema-example-testing-tool-good](images/schema-example-testing-tool-good.png)
+
+**Errores o advertencias**
+
+![schema-example-testing-tool-error](images/schema-example-testing-tool-error.png)
+
+
+**Para más información:** [Schema.org](https://schema.org), [Detección social](https://developers.google.com/web/fundamentals/discovery/social-discovery?hl=es)
