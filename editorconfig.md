@@ -6,6 +6,11 @@ Ejemplo de un archivo `.editorconfig`
 
 ![editorconfig-file-example](images/editorconfig-file-example.png)
 
+**root**: es una propiedad especial que debe especificarse en la parte superior del archivo fuera de cualquier sección. Debes darle un valor "true" para detener la búsqueda de archivos .editorconfig en el archivo actual.
+
+`[*]` indica que las propiedades se aplican a todos los caracteres, excepto a los separadores de rutas (/).
+
+
 ## EditorConfig en VSCode y SublimeText
 
 ### VSCode
