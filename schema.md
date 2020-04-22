@@ -18,15 +18,15 @@ es un elemento en particular.
 
 Una vez especificado el *itemscope*, añadimos el tipo de elemento. Esto lo hacemos con *itemtype*. Pero, ¿cómo sabemos qué tipo utilizar?
 
-Para esto debemos buscar un itemtype que esté más relacionado con el contenido. En este caso nuestro itemtype es una organización.
+Para esto debemos buscar un itemtype que esté más relacionado con el contenido. En este caso nuestro itemtype puede ser *Thing*; tiene imagen, url y una descripción.
+
+`itemtype` especifica el tipo de elemento que se está utilizando.
+se coloca después del `itemscope`.
 
 ![schema-markup-example-itemtype](images/schema-markup-example-itemtype.png)
 
 **Nota:** Schema.org describe una variedad de tipos de elementos, cada uno tiene su conjunto de propiedades que se pueden utilizar para describir el elemento. 
 Ir a [Lista de todos los tipos de elementos](https://schema.org/docs/full.html) para ver los detalles.
-
-`itemtype` especifica el tipo de elemento que se está utilizando.
-se coloca después del `itemscope`.
 
 `itemprop` especifica las propiedades del elemento. 
 
