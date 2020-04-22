@@ -50,9 +50,7 @@ web y no el contenido en `div` ocultos u otros elementos ocultos.
 3. Para páginas con una colección de elementos, se debe marcar cada elemento por separado. 
 Por ejemplo:
 
-![examplePost](images/examplePost.png)
-
-![examplePost2](images/examplePost2.png)
+![schema-example-tip-number-3](images/schema-example-tip-number-3.png)
 
 
 ## Prueba tu Schema.org
