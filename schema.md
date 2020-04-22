@@ -5,13 +5,16 @@ que puedes utilizar para que las máquinas de búsqueda puedan entender tu pági
 
 Veamos un ejemplo:
 
-Aquí tenemos el footer de una página. Tiene el nombre de la organización, sus siglas, el nombre de uno de sus programas y un texto de copyright.
+Aquí tenemos un artículo. Tiene una imagen, un link y un párrafo.
 
 ![schema-markup-example-article](images/schema-markup-example-article.png)
 
-Lo primero que tenemos que hacer es identificar esta sección. Esto lo hacemos añadiendo el elemento *itemscope* en la división. Esto quiere decir que lo que está dentro del bloque es un elemento individual.
+Lo primero que tenemos que hacer es identificar esta sección. Esto lo hacemos añadiendo el elemento *itemscope* en la división. Esto quiere decir que lo que está dentro del bloque es un elemento en particular.
 
 ![schema-markup-example-itemscope](images/schema-markup-example-itemscope.png)
+
+`itemscope` indica que, lo que está dentro del bloque `<div>...</div>` 
+es un elemento en particular.
 
 Una vez especificado el *itemscope*, añadimos el tipo de elemento. Esto lo hacemos con *itemtype*. Pero, ¿cómo sabemos qué tipo utilizar?
 
@@ -21,9 +24,6 @@ Para esto debemos buscar un itemtype que esté más relacionado con el contenido
 
 **Nota:** Schema.org describe una variedad de tipos de elementos, cada uno tiene su conjunto de propiedades que se pueden utilizar para describir el elemento. 
 Ir a [Lista de todos los tipos de elementos](https://schema.org/docs/full.html) para ver los detalles.
-
-`itemscope` indica que, lo que está dentro del bloque `<div>...</div>` 
-es un elemento en particular.
 
 `itemtype` especifica el tipo de elemento que se está utilizando.
 se coloca después del `itemscope`.
