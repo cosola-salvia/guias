@@ -15,7 +15,13 @@ Ejemplo de un archivo `.editorconfig`
 
 ### VSCode
 
-VSCode utiliza el *editorconfig npm package*.
+**Instalar editorconfig en VSCode**
+
+Lo único que tienes que hacer es ir a *Extensiones* (Ctrl + Shift + X) y escribir el nombre del paquete, en este caso *editorconfig* y presionar el botón `Install`.
+
+![editorconfig-install-from-vscode](images/editorconfig-install-from-vscode.png)
+
+También VSCode utiliza el *editorconfig npm package*.
 
 - Instala el paquete `ext install EditorConfig`
 
