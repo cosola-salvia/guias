@@ -53,3 +53,8 @@ Puedes crear un archivo .editorconfig haciendo click derecho en el botón *Explo
     trim_trailing_whitespace
     insert_final_newline
 
+## Más notas
+
+1. Los archivos EditorConfig se leen de arriba abajo y las reglas más recientes encontradas tienen prioridad.
+
+2. Si no se especifica una propiedad, se usará la configuración del editor, es decir, *EditorConfig* no tiene efecto en esa parte.
