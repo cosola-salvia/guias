@@ -13,7 +13,7 @@
 
 Es importante entender la taxonomía para realizar la investigación con un enfoque claro de lo que estamos buscando.
 
-3. Organizar la información en base a los siguientes puntos:
+3. **Organizar la información en base a los siguientes puntos:**
 Brief intro. Abstract or summary.
 
 - **Botanical characteristics** 
