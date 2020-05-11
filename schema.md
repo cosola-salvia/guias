@@ -9,12 +9,9 @@ Aquí tenemos un artículo. Tiene una imagen, un link y un párrafo.
 
 ![schema-markup-example-article](images/schema-markup-example-article.png)
 
-Lo primero que tenemos que hacer es identificar esta sección. Esto lo hacemos añadiendo el elemento *itemscope* en la división. Esto quiere decir que lo que está dentro del bloque es un elemento en particular.
+Lo primero que tenemos que hacer es identificar esta sección. Esto lo hacemos añadiendo el elemento *itemscope* en la división. `itemscope` indica que, lo que está dentro del bloque `<div>...</div>` es un elemento en particular.
 
 ![schema-markup-example-itemscope](images/schema-markup-example-itemscope.png)
-
-`itemscope` indica que, lo que está dentro del bloque `<div>...</div>` 
-es un elemento en particular.
 
 Una vez especificado el *itemscope*, añadimos el tipo de elemento. Esto lo hacemos con *itemtype*. Pero, ¿cómo sabemos qué tipo utilizar?
 
