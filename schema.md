@@ -41,8 +41,7 @@ Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*.
 
 ## Prueba tu Schema.org
 
-Ir a [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool)
-para verificar que el `schema.org` está correctamente implementado.
+Usa [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) para verificar que el `schema.org` está correctamente implementado.
 
 ### Buenos resultados (sin errores ni advertencias)
 
