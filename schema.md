@@ -13,17 +13,15 @@ Lo primero que tenemos que hacer es identificar esta sección. Esto lo hacemos a
 
 ![schema-markup-example-itemscope](images/schema-markup-example-itemscope.png)
 
-Una vez especificado el *itemscope*, añadimos el tipo de elemento. Esto lo hacemos con *itemtype*. Pero, ¿cómo sabemos qué tipo utilizar?
+Una vez especificado el *itemscope*, añadimos el tipo de elemento. Esto lo hacemos con *itemtype*. `itemtype` especifica el tipo de elemento que se está utilizando. Se coloca después del `itemscope`.
 
-Para esto debemos buscar un itemtype que esté más relacionado con el contenido. En este caso nuestro itemtype puede ser *Thing*; tiene imagen, url y una descripción.
+Pero, ¿cómo sabemos qué tipo utilizar?
 
-`itemtype` especifica el tipo de elemento que se está utilizando.
-se coloca después del `itemscope`.
+Para esto debemos buscar un itemtype que esté más relacionado con el contenido. Schema.org describe una variedad de tipos de elementos, cada uno tiene su conjunto de propiedades que se pueden utilizar para describir el elemento. Ir a [lista de todos los tipos de elementos](https://schema.org/docs/full.html) para ver los detalles.
+
+En este caso nuestro `itemtype` puede ser *Thing*; tiene imagen, url y una descripción.
 
 ![schema-markup-example-itemtype](images/schema-markup-example-itemtype.png)
-
-**Nota:** Schema.org describe una variedad de tipos de elementos, cada uno tiene su conjunto de propiedades que se pueden utilizar para describir el elemento. 
-Ir a [Lista de todos los tipos de elementos](https://schema.org/docs/full.html) para ver los detalles.
 
 Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*. 
 
@@ -31,6 +29,7 @@ Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*.
 
 `itemprop` especifica las propiedades del elemento. 
 
+ 
 
 ## Tips para utilizar Schema.org
 
