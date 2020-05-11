@@ -23,13 +23,9 @@ En este caso nuestro `itemtype` puede ser *Thing*; tiene imagen, url y una descr
 
 ![schema-markup-example-itemtype](images/schema-markup-example-itemtype.png)
 
-Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*. 
+Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*.
 
 ![schema-markup-example-itemprop](images/schema-markup-example-itemprop.png)
-
-`itemprop` especifica las propiedades del elemento. 
-
- 
 
 ## Tips para utilizar Schema.org
 
