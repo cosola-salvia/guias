@@ -27,9 +27,7 @@ Ahora debemos añadir las propiedades. Esto lo hacemos con *itemprop*.
 
 ![schema-markup-example-itemprop](images/schema-markup-example-itemprop.png)
 
-## Tips para utilizar Schema.org
-
-### Algunas notas a tener en cuenta a la hora de utilizar schema.org:
+## Algunas notas a tener en cuenta a la hora de utilizar schema.org
 
 1. Cuanto más contenido marcado, mejor. Pero sólo se debe marcar 
 el contenido que sea visible para las personas que visitan la página 
