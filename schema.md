@@ -1,6 +1,6 @@
 ## Qué es *Schema.org*
 
-Schema.org provee una colección de vocabularios compartidos 
+[Schema.org](schema.org) provee una colección de vocabularios compartidos 
 que puedes utilizar para que las máquinas de búsqueda puedan entender tu página web.
 
 Veamos un ejemplo:
