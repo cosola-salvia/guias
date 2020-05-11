@@ -25,26 +25,35 @@
 ![color-swatch-blue](images/color-swatch-blue.png)
 
 - Hex `1a1451`
-- RGB `26, 20, 81`
+- RGB (21, 21, 78)
 
 2. **Dorado**
 
 ![color-swatch-gold](images/color-swatch-gold.png)
 
 - Hex `af8400`
-- RGB `175, 132, 0`
+- RGB (181, 135, 45)
 
 3. **Amarillo**
 
 ![color-swatch-yellow](images/color-swatch-yellow.png)
 
 - Hex `fdfd56`
-- RGB `253, 253, 86`
+- RGB (253, 253, 86)
 
 4. **Gris**
 
 ![color-swatch-gray](images/color-swatch-gray.png)
 
 - Hex `606060`
-- RGB `96, 96, 96`
+- RGB  (167, 169, 172)
 
+### Guidelines for logo and slogan
+
+ * The MACILE logo is a combination of the word MACILE and the crest.  Both should appear in all pages. But they don't have to be one next to the other in all pages.
+
+* The words: mathematics, science, engineering, and language are part of the brand. They are important because some people do not know what MACILE stands for.
+
+* "Advancing Engineering and Technology Education" is the slogan, which indicates the focus of our education the program. This is often extended to include the phrase "in less-advantaged communities," which indicates the population we serve.
+
+* "Seek Learning And Understanding" is the brand. It indicates that we believe you can learn anything you want to learn, if you are determined to and willing to persevere. 
