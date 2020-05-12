@@ -1,4 +1,4 @@
-## Pasos para Investigar
+# Pasos para Investigar
 
 1. **Recopilar información (datos científicos, libros u otras fuentes confiables)**
 2. **Entender la taxonomía de la planta**
