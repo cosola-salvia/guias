@@ -18,6 +18,22 @@
 
 ![trajan pro regular typography](images/trajan-pro-regular-typography.png)
 
+### Cómo utilizarlo en CSS
+
+1. Importa los fonts
+
+		@font-face {
+		  font-family: 'TrajanPro-Bold';
+		  src: url('/fonts/TrajanPro-Bold.woff') format('woff'), url('/fonts/TrajanPro-Bold.woff2') format('woff2');
+		}
+		
+2. Llámalo
+
+		.menu {
+		  font-family: 'Trajan Pro Bold', 'Times New Roman', serif;
+		}
+
+
 ## Colores
 
 1. **Azul**
